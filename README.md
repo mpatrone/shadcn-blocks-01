@@ -23,7 +23,7 @@ import { Button } from "@/components/ui/button";
 
 ## Flow
 
-Create the Nxet.js application using https://ui.shadcn.com/create using the
+Create the Next.js application using https://ui.shadcn.com/create using the
 shuffle option until we get a nice looking preset.
 
 Add dark mode and the dsahboard-01 block using Claude code
