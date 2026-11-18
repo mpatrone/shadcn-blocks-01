@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Production chatbot",
+    "model": "claude-haiku-5-5",
+    "status": "Active",
+    "tokens": "3.9M",
+    "budget": "100",
+    "owner": "Ada Lovelace"
+  },
+  {
+    "id": 2,
+    "name": "Support summarizer",
+    "model": "claude-opus-5-5",
+    "status": "Active",
+    "tokens": "5.6M",
+    "budget": "2500",
+    "owner": "Grace Hopper"
+  },
+  {
+    "id": 3,
+    "name": "Search reranker",
+    "model": "claude-opus-5-5",
+    "status": "Active",
+    "tokens": "4.2M",
+    "budget": "100",
+    "owner": "Grace Hopper"
+  },
+  {
+    "id": 4,
+    "name": "Code review bot",
+    "model": "claude-opus-5-5",
+    "status": "Rate limited",
+    "tokens": "0.7M",
+    "budget": "2500",
+    "owner": "Ada Lovelace"
+  },
+  {
+    "id": 5,
+    "name": "Docs Q&A",
+    "model": "claude-sonnet-5-5",
+    "status": "Active",
+    "tokens": "5.6M",
+    "budget": "1000",
+    "owner": "Ada Lovelace"
+  },
+  {
+    "id": 6,
+    "name": "Onboarding assistant",
+    "model": "claude-sonnet-5-5",
+    "status": "Active",
+    "tokens": "5.4M",
+    "budget": "250",
+    "owner": "Alan Turing"
+  },
+  {
+    "id": 7,
+    "name": "Email drafter",
+    "model": "claude-fable-5-2",
+    "status": "Active",
+    "tokens": "5.2M",
+    "budget": "2500",
+    "owner": "Alan Turing"
+  },
+  {
+    "id": 8,
+    "name": "Sales call notes",
+    "model": "claude-sonnet-5-5",
+    "status": "Active",
+    "tokens": "5.6M",
+    "budget": "250",
+    "owner": "Alan Turing"
+  },
+  {
+    "id": 9,
+    "name": "Ticket classifier",
+    "model": "claude-opus-5-5",
+    "status": "Active",
+    "tokens": "5.4M",
+    "budget": "2500",
+    "owner": "Grace Hopper"
+  },
+  {
+    "id": 10,
+    "name": "Translation service",
+    "model": "claude-fable-5-2",
+    "status": "Rate limited",
+    "tokens": "7.4M",
+    "budget": "1000",
+    "owner": "Unassigned"
+  },
+  {
+    "id": 11,
+    "name": "Data extraction",
+    "model": "claude-haiku-5-5",
+    "status": "Active",
+    "tokens": "2.5M",
+    "budget": "250",
+    "owner": "Grace Hopper"
+  },
+  {
+    "id": 12,
+    "name": "Marketing copy",
+    "model": "claude-opus-5-5",
+    "status": "Active",
+    "tokens": "5.1M",
+    "budget": "500",
+    "owner": "Unassigned"
+  },
+  {
+    "id": 13,
+    "name": "Internal wiki agent",
+    "model": "claude-haiku-5-5",
+    "status": "Active",
+    "tokens": "1.3M",
+    "budget": "1000",
+    "owner": "Grace Hopper"
+  },
+  {
+    "id": 14,
+    "name": "Analytics SQL agent",
+    "model": "claude-haiku-5-5",
+    "status": "Active",
+    "tokens": "8.9M",
+    "budget": "1000",
+    "owner": "Ada Lovelace"
+  },
+  {
+    "id": 15,
+    "name": "Staging chatbot",
+    "model": "claude-opus-5-5",
+    "status": "Active",
+    "tokens": "3.4M",
+    "budget": "500",
+    "owner": "Unassigned"
+  },
+  {
+    "id": 16,
+    "name": "Eval harness",
+    "model": "claude-fable-5-2",
+    "status": "Active",
+    "tokens": "8.0M",
+    "budget": "500",
+    "owner": "Unassigned"
+  },
+  {
+    "id": 17,
+    "name": "Batch embeddings",
+    "model": "claude-opus-5-5",
+    "status": "Active",
+    "tokens": "7.0M",
+    "budget": "500",
+    "owner": "Unassigned"
+  },
+  {
+    "id": 18,
+    "name": "Contract reviewer",
+    "model": "claude-haiku-5-5",
+    "status": "Rate limited",
+    "tokens": "8.4M",
+    "budget": "500",
+    "owner": "Ada Lovelace"
+  },
+  {
+    "id": 19,
+    "name": "Mobile app assistant",
+    "model": "claude-fable-5-2",
+    "status": "Active",
+    "tokens": "1.8M",
+    "budget": "100",
+    "owner": "Unassigned"
+  },
+  {
+    "id": 20,
+    "name": "CI test triage",
+    "model": "claude-opus-5-5",
+    "status": "Active",
+    "tokens": "7.3M",
+    "budget": "250",
+    "owner": "Grace Hopper"
+  },
+  {
+    "id": 21,
+    "name": "Feedback tagger",
+    "model": "claude-fable-5-2",
+    "status": "Rate limited",
+    "tokens": "8.7M",
+    "budget": "1000",
+    "owner": "Ada Lovelace"
+  },
+  {
+    "id": 22,
+    "name": "Voice transcript cleanup",
+    "model": "claude-sonnet-5-5",
+    "status": "Revoked",
+    "tokens": "3.9M",
+    "budget": "500",
+    "owner": "Grace Hopper"
+  },
+  {
+    "id": 23,
+    "name": "Legacy integration",
+    "model": "claude-fable-5-2",
+    "status": "Active",
+    "tokens": "6.8M",
+    "budget": "500",
+    "owner": "Unassigned"
+  },
+  {
+    "id": 24,
+    "name": "Prototype sandbox",
+    "model": "claude-sonnet-5-5",
+    "status": "Active",
+    "tokens": "1.0M",
+    "budget": "250",
+    "owner": "Grace Hopper"
+  }
+]
